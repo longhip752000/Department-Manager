@@ -1,0 +1,11 @@
+PRJ311-Java Desktop:
+SE140973,Bui Viet Long,241
+SE140902,Tran Trung Duc,190
+SE140412,Tran Hung Dung,290
+SE140782,Bich Ngoc,550
+TD-Technic Department:
+SE120874,Nguyen Van Toan,320
+SE120517,Kuong Thong Dat,250
+AP-Accounting Departmen:
+SE130416,Nguyen Hung Chi,520
+SE110123,Tran Thi Bich Thuan
